@@ -1,0 +1,41 @@
+
+*{
+    background-color: white;
+}
+
+.welcome {
+    max-width: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: left;
+}
+
+h1{
+    background-color: white;
+    font-size: 100px; /* Adjust the font size as needed */
+    margin-left: -800px; /* Shift the text to the left */
+}
+
+.links {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    background-color: white;
+    margin-top: 300px;
+    margin-right: 250px;
+}
+
+h3 {
+    margin-top: 0;
+    font-size: 30px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
