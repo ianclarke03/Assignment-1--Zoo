@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(136, 35, 17);
+}
+
+.back-button{
+    padding: 10px 20px;
+    background-color: aliceblue;
+}
+
+h1{
+    font-size: 100px; 
+    margin-left: 200px;
+}
+
+
+p{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    background-color: white;
+    margin-top: 300px;
+    margin-right: 100px;
+    margin-left: 850px;
+}
+
+img{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    background-color: white;
+    margin-top: 300px;
+    margin-right: 1100px;
+}
