@@ -1,6 +1,6 @@
 
 *{
-    background-color: white;
+    background-color: bisque;
 }
 
 .welcome {
@@ -11,7 +11,7 @@
 }
 
 h1{
-    background-color: white;
+    background-color: bisque;
     font-size: 100px; 
     margin-left: -800px; 
 }
@@ -21,9 +21,9 @@ h1{
     top: 0;
     right: 0;
     padding: 20px;
-    background-color: white;
-    margin-top: 300px;
-    margin-right: 250px;
+    background-color: bisque;
+    margin-top: 370px;
+    margin-right: 200px;
 }
 
 h3 {
@@ -40,12 +40,45 @@ ul li {
     margin-bottom: 10px;
 }
 
-img {
-    border-radius: 50%;
-  }
 
 #zoo_image1{
-    border-radius: 90%;
-    width: 300px;
+    border-radius: 60%;
+    width: 350px;
     height: auto;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 350px;
+}
+
+#zoo_image2{
+    border-radius: 40%;
+    width: 350px;
+    height: auto;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    background-color: white;
+    margin-top: 300px;
+    margin-right: 800px;
+}
+
+#zoo_image3{
+    border-radius: 60%;
+    width: 350px;
+    height: auto;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 20px;
+    background-color: white;
+    margin-top: 600px;
+    margin-right: 350px;
 }
