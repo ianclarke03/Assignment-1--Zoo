@@ -39,3 +39,13 @@ ul {
 ul li {
     margin-bottom: 10px;
 }
+
+img {
+    border-radius: 50%;
+  }
+
+#zoo_image1{
+    border-radius: 90%;
+    width: 300px;
+    height: auto;
+}
